@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/24666/tags/RELEASE_1_4_0/lib/plugins/sfPropelPlugin/lib/task/phing
+END
+phing_default_overrides
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/24666/tags/RELEASE_1_4_0/lib/plugins/sfPropelPlugin/lib/task/phing/phing_default_overrides
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/24666/tags/RELEASE_1_4_0/test/unit/util/fixtures/finder/dir1/dir2
+END
+file22
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/24666/tags/RELEASE_1_4_0/test/unit/util/fixtures/finder/dir1/dir2/file22
+END
+file23
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/24666/tags/RELEASE_1_4_0/test/unit/util/fixtures/finder/dir1/dir2/file23
+END
+file24
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/24666/tags/RELEASE_1_4_0/test/unit/util/fixtures/finder/dir1/dir2/file24
+END
+file21.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/24666/tags/RELEASE_1_4_0/test/unit/util/fixtures/finder/dir1/dir2/file21.php
+END

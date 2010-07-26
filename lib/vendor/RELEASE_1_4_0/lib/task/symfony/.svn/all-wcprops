@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/24666/tags/RELEASE_1_4_0/lib/task/symfony
+END
+lime_symfony.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/24666/tags/RELEASE_1_4_0/lib/task/symfony/lime_symfony.php
+END
+sfSymfonyTestTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/24666/tags/RELEASE_1_4_0/lib/task/symfony/sfSymfonyTestTask.class.php
+END

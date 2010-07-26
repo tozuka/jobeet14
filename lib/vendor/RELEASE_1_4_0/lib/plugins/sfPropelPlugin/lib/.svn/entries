@@ -1,0 +1,70 @@
+10
+
+dir
+30397
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfPropelPlugin/lib
+http://svn.symfony-project.com
+
+
+
+2009-11-30T23:42:50.590596Z
+24621
+Kris.Wallsmith
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ee427ae8-e902-0410-961c-c3ed070cd9f9
+
+behavior
+dir
+
+test
+dir
+
+log
+dir
+
+task
+dir
+
+form
+dir
+
+widget
+dir
+
+database
+dir
+
+addon
+dir
+
+validator
+dir
+
+debug
+dir
+
+generator
+dir
+
+routing
+dir
+
+mailer
+dir
+
+vendor
+dir
+

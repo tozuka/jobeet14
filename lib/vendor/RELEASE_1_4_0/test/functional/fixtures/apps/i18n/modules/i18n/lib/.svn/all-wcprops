@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/24666/tags/RELEASE_1_4_0/test/functional/fixtures/apps/i18n/modules/i18n/lib
+END
+I18nCustomCatalogueForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/24666/tags/RELEASE_1_4_0/test/functional/fixtures/apps/i18n/modules/i18n/lib/I18nCustomCatalogueForm.class.php
+END
+I18nForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/24666/tags/RELEASE_1_4_0/test/functional/fixtures/apps/i18n/modules/i18n/lib/I18nForm.class.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/24666/tags/RELEASE_1_4_0/licenses
+END
+LICENSE.ICU
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/24666/tags/RELEASE_1_4_0/licenses/LICENSE.ICU
+END
+LICENSE.prado
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/24666/tags/RELEASE_1_4_0/licenses/LICENSE.prado
+END
+LICENSE.lime
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/24666/tags/RELEASE_1_4_0/licenses/LICENSE.lime
+END
+LICENSE.swiftmailer
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/24666/tags/RELEASE_1_4_0/licenses/LICENSE.swiftmailer
+END

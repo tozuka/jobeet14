@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/24666/tags/RELEASE_1_4_0/test/unit/config/fixtures/sfSimpleYamlConfigHandler
+END
+config_bis.yml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/24666/tags/RELEASE_1_4_0/test/unit/config/fixtures/sfSimpleYamlConfigHandler/config_bis.yml
+END
+config.yml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/24666/tags/RELEASE_1_4_0/test/unit/config/fixtures/sfSimpleYamlConfigHandler/config.yml
+END

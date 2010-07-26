@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/24666/tags/RELEASE_1_4_0/test/bootstrap
+END
+unit.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/24666/tags/RELEASE_1_4_0/test/bootstrap/unit.php
+END
+functional.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/24666/tags/RELEASE_1_4_0/test/bootstrap/functional.php
+END
+task.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/24666/tags/RELEASE_1_4_0/test/bootstrap/task.php
+END

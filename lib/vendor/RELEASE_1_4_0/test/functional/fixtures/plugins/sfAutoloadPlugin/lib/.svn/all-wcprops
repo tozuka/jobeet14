@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/24666/tags/RELEASE_1_4_0/test/functional/fixtures/plugins/sfAutoloadPlugin/lib
+END
+ExtendMe.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/24666/tags/RELEASE_1_4_0/test/functional/fixtures/plugins/sfAutoloadPlugin/lib/ExtendMe.class.php
+END
+BaseExtendMe.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/24666/tags/RELEASE_1_4_0/test/functional/fixtures/plugins/sfAutoloadPlugin/lib/BaseExtendMe.class.php
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/24666/tags/RELEASE_1_4_0/test/unit/config/fixtures/sfGeneratorConfigHandler
+END
+root_list_section.yml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/24666/tags/RELEASE_1_4_0/test/unit/config/fixtures/sfGeneratorConfigHandler/root_list_section.yml
+END
+no_generator_section.yml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/24666/tags/RELEASE_1_4_0/test/unit/config/fixtures/sfGeneratorConfigHandler/no_generator_section.yml
+END
+no_generator_class.yml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/24666/tags/RELEASE_1_4_0/test/unit/config/fixtures/sfGeneratorConfigHandler/no_generator_class.yml
+END
+root_edit_section.yml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/24666/tags/RELEASE_1_4_0/test/unit/config/fixtures/sfGeneratorConfigHandler/root_edit_section.yml
+END
+root_fields_section.yml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/24666/tags/RELEASE_1_4_0/test/unit/config/fixtures/sfGeneratorConfigHandler/root_fields_section.yml
+END
+empty.yml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/24666/tags/RELEASE_1_4_0/test/unit/config/fixtures/sfGeneratorConfigHandler/empty.yml
+END

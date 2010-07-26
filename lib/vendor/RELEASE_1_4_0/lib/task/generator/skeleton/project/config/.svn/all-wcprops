@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/24666/tags/RELEASE_1_4_0/lib/task/generator/skeleton/project/config
+END
+rsync_exclude.txt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/24666/tags/RELEASE_1_4_0/lib/task/generator/skeleton/project/config/rsync_exclude.txt
+END
+ProjectConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/24666/tags/RELEASE_1_4_0/lib/task/generator/skeleton/project/config/ProjectConfiguration.class.php
+END
+properties.ini
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/24666/tags/RELEASE_1_4_0/lib/task/generator/skeleton/project/config/properties.ini
+END

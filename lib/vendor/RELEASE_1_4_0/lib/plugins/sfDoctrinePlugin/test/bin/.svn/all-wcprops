@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/24666/tags/RELEASE_1_4_0/lib/plugins/sfDoctrinePlugin/test/bin
+END
+coverage.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/24666/tags/RELEASE_1_4_0/lib/plugins/sfDoctrinePlugin/test/bin/coverage.php
+END
+prove.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/24666/tags/RELEASE_1_4_0/lib/plugins/sfDoctrinePlugin/test/bin/prove.php
+END

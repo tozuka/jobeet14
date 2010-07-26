@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/24666/tags/RELEASE_1_4_0/test/functional/fixtures/plugins/sfAutoloadPlugin/modules/autoloadPlugin/templates
+END
+indexSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/!svn/ver/24666/tags/RELEASE_1_4_0/test/functional/fixtures/plugins/sfAutoloadPlugin/modules/autoloadPlugin/templates/indexSuccess.php
+END

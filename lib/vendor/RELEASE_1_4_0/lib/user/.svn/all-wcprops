@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/24666/tags/RELEASE_1_4_0/lib/user
+END
+sfUser.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/24666/tags/RELEASE_1_4_0/lib/user/sfUser.class.php
+END
+sfSecurityUser.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/24666/tags/RELEASE_1_4_0/lib/user/sfSecurityUser.class.php
+END
+sfBasicSecurityUser.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/24666/tags/RELEASE_1_4_0/lib/user/sfBasicSecurityUser.class.php
+END

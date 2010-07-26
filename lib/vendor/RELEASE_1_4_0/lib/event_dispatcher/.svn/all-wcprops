@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/24601/components/event_dispatcher/tags/RELEASE_1_0_0/lib
+END
+sfEvent.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/24601/components/event_dispatcher/tags/RELEASE_1_0_0/lib/sfEvent.php
+END
+sfEventDispatcher.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/24601/components/event_dispatcher/tags/RELEASE_1_0_0/lib/sfEventDispatcher.php
+END

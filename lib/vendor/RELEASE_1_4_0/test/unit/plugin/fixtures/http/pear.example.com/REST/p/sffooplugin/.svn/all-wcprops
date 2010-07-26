@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/24666/tags/RELEASE_1_4_0/test/unit/plugin/fixtures/http/pear.example.com/REST/p/sffooplugin
+END
+info.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/24666/tags/RELEASE_1_4_0/test/unit/plugin/fixtures/http/pear.example.com/REST/p/sffooplugin/info.xml
+END

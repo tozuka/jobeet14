@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/24666/tags/RELEASE_1_4_0/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/default/parts
+END
+showAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/24666/tags/RELEASE_1_4_0/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/default/parts/showAction.php
+END
+deleteAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/24666/tags/RELEASE_1_4_0/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/default/parts/deleteAction.php
+END
+processFormAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/24666/tags/RELEASE_1_4_0/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/default/parts/processFormAction.php
+END
+updateAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/24666/tags/RELEASE_1_4_0/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/default/parts/updateAction.php
+END
+createAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/24666/tags/RELEASE_1_4_0/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/default/parts/createAction.php
+END
+editAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/24666/tags/RELEASE_1_4_0/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/default/parts/editAction.php
+END
+indexAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/24666/tags/RELEASE_1_4_0/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/default/parts/indexAction.php
+END
+newAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/24666/tags/RELEASE_1_4_0/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/default/parts/newAction.php
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/24666/tags/RELEASE_1_4_0/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/apps/backend/modules/doctrine_route_test/actions
+END
+actions.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/!svn/ver/24666/tags/RELEASE_1_4_0/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/apps/backend/modules/doctrine_route_test/actions/actions.class.php
+END

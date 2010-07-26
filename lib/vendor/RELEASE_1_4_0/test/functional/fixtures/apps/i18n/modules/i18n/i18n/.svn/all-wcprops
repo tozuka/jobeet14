@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/24666/tags/RELEASE_1_4_0/test/functional/fixtures/apps/i18n/modules/i18n/i18n
+END
+custom.fr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/24666/tags/RELEASE_1_4_0/test/functional/fixtures/apps/i18n/modules/i18n/i18n/custom.fr.xml
+END
+other.fr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/24666/tags/RELEASE_1_4_0/test/functional/fixtures/apps/i18n/modules/i18n/i18n/other.fr.xml
+END
+messages.fr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/24666/tags/RELEASE_1_4_0/test/functional/fixtures/apps/i18n/modules/i18n/i18n/messages.fr.xml
+END
