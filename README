@@ -4,7 +4,7 @@ J 01
 $ ./lib/vendor/symfony/data/bin/symfony generate:project jobeet
   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ // dorénavant on peut utiliser le raccourci "symfony"
 
-$                             ./symfony generate:app frontend
+$ ./symfony generate:app frontend
 
 
 
