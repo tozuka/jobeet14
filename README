@@ -1,1 +1,7 @@
-あとで書く
+1.
+$ ./lib/vendor/symfony/data/bin/symfony generate:project jobeet
+                                          ^^^^^^^^^^^^^^^^
+// dore'navant on peut utiliser le raccourci "symfony"
+
+$                             ./symfony generate:app frontend
+
