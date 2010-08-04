@@ -1,11 +1,22 @@
 1.
+
 $ ./lib/vendor/symfony/data/bin/symfony generate:project jobeet
-                                          ^^^^^^^^^^^^^^^^
-// dorénavant on peut utiliser le raccourci "symfony"
+  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ // dorénavant on peut utiliser le raccourci "symfony"
 
 $                             ./symfony generate:app frontend
 
 
+----
 2.
 
 je n'écrit rien
+
+
+----
+3.
+
+$ ## ./symfony doctrine:build-schema でSQLがでる
+
+$ mysqladmin -uroot -proot create jobeet14
+$ ./symfony configure:database "mysql:host=localhost;dbname=jobeet14" root root
+
