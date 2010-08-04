@@ -1,22 +1,35 @@
-1.
-
+====
+J 01
+====
 $ ./lib/vendor/symfony/data/bin/symfony generate:project jobeet
   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ // dorénavant on peut utiliser le raccourci "symfony"
 
 $                             ./symfony generate:app frontend
 
 
-----
-2.
 
+====
+J 02
+====
 je n'écrit rien
 
 
-----
-3.
-
+====
+J 03
+====
 $ ## ./symfony doctrine:build-schema でSQLがでる
 
 $ mysqladmin -uroot -proot create jobeet14
 $ ./symfony configure:database "mysql:host=localhost;dbname=jobeet14" root root
 
+
+$ ./symfony doctrine:build --model ==> data/model/..
+$ ./symfony doctrine:build --sql   ==> data/sql/..
+$ ./symfony doctrine:insert-sql
+
+lib/model/doctrine/base/BaseFoo.class  << sfDoctrineRecord (これはいじらない)
+lib/model/doctrine/Foo.class           << base/BaseFoo.class (カスタマイズはこちら)
+lib/model/doctrine/FooTable.class      << Doctrine_Table
+
+$ ./symfony doctrine:build --all                     でフォーム、バリデータまで一発生成
+$ ./symfony doctrine:build --all --no-confirmation
