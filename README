@@ -38,3 +38,7 @@ $ ./symfony doctrine:build --all --no-confirmation
 
 $ ./symfony doctrine:data-load
 $ ./symfony doctrine:build --all --and-load
+
+CRUDモジュールを作るわよ
+
+$ ./symfony doctrine:generate-module --with-show --non-verbose-templates frontend job JobeetJob
