@@ -78,3 +78,9 @@ Doctrineオブジェクトを使うと簡単:
 とか書けて非常に楽ちん
 
 $ ./symfony app:routes frontend
+$ ./symfony app:routes frontend job_edit
+
+// lib/Jobeet.class.php って何さ
+// ... in lib/model/doctrine/JobeetJob.class.php,
+// return Jobeet::slugify(...)
+// あー。これか
