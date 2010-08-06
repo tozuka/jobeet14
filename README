@@ -50,4 +50,31 @@ J 04
 ====
 J 05 Routing
 ====
+apps/frontend/config/routing.yml
 
+> job_show_user:
+>   url:   /job/:company/:location/:id/:position
+>   class: sfRequestRoute
+>   param: { module: job, action: show }
+>   requirements:
+>     id: \d+
+>     sf_method: [get]
+
+Doctrineオブジェクトを使うと簡単:
+
+> job_show_user:
+>   url:     /job/:company/:location/:id/:position
+>   class:   sfDoctrineRoute
+>   options: { model: JobeetJob, type: object }
+>   param:   { module: job, action: show }
+>   requirements:
+>     id: \d+
+>     sf_method: [get]
+
+そうすると
+ url_for(array('sf_route' => 'job_show_user', 'sf_subject' => $job))
+とか
+ url_for('job_show_user', $job)
+とか書けて非常に楽ちん
+
+$ ./symfony app:routes frontend
