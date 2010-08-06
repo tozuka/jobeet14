@@ -42,3 +42,12 @@ $ ./symfony doctrine:build --all --and-load
 CRUDモジュールを作るわよ
 
 $ ./symfony doctrine:generate-module --with-show --non-verbose-templates frontend job JobeetJob
+
+====
+J 04
+====
+
+====
+J 05 Routing
+====
+
