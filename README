@@ -84,3 +84,12 @@ $ ./symfony app:routes frontend job_edit
 // ... in lib/model/doctrine/JobeetJob.class.php,
 // return Jobeet::slugify(...)
 // あー。これか
+
+
+====
+J 06
+====
+data/fixtures/????.yml など、フィクスチャを追加したりとかしたら
+
+$ ./symfony doctrine:data-load
+
