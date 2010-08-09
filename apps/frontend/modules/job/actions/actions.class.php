@@ -12,7 +12,7 @@ class jobActions extends sfActions
 {
   public function executeIndex(sfWebRequest $request)
   {
-    $q = Doctrine_core::getTable('JobeetJob')->getActiveJobs();
+    $this->jobeet_jobs = Doctrine_core::getTable('JobeetJob')->getActiveJobs();
   }
 
   public function executeShow(sfWebRequest $request)
