@@ -93,3 +93,14 @@ data/fixtures/????.yml など、フィクスチャを追加したりとかした
 
 $ ./symfony doctrine:data-load
 
+====
+J 07
+====
+
+$ ./symfony doctrine:generate-module --with-show --non-verbose-templates frontend category JobeetJob
+
+よりも
+
+$ ./symfony generate:module frontend category
+
+のほうが良いケース。空のモジュールを作る。

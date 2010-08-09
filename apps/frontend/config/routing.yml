@@ -6,8 +6,14 @@ job:
   options: { model: JobeetJob }
 
 category:
-  class:   sfDoctrineRouteCollection
-  options: { model: JobeetCategory }
+  url:      /category/:slug
+  class:    sfDoctrineRoute
+  param:    { module: category, action: show }
+  options:  { model: JobeetCategory, type: object }
+
+#category:
+#  class:   sfDoctrineRouteCollection
+#  options: { model: JobeetCategory }
 
 job_show_user:
   url:   /job/:company_slug/:location_slug/:id/:position_slug
