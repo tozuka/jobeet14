@@ -1,26 +1,27 @@
-<table>
-  <tbody>
-    <tr>
-      <th>Id:</th>
-      <td><?php echo $jobeet_category->getId() ?></td>
+<?php use_stylesheet('jobs.css') ?>
+ 
+<?php slot('title', sprintf('Jobs in the %s category', $category->getName())) ?>
+ 
+<div class="category">
+  <div class="feed">
+    <a href="">Feed</a>
+  </div>
+  <h1><?php echo $category ?></h1>
+</div>
+ 
+<table class="jobs">
+  <?php foreach ($category->getActiveJobs() as $i => $job): ?>
+    <tr class="<?php echo fmod($i, 2) ? 'even' : 'odd' ?>">
+      <td class="location">
+        <?php echo $job->getLocation() ?>
+      </td>
+      <td class="position">
+        <?php echo link_to($job->getPosition(), 'job_show_user', $job) ?>
+      </td>
+      <td class="company">
+        <?php echo $job->getCompany() ?>
+      </td>
     </tr>
-    <tr>
-      <th>Name:</th>
-      <td><?php echo $jobeet_category->getName() ?></td>
-    </tr>
-    <tr>
-      <th>Created at:</th>
-      <td><?php echo $jobeet_category->getCreatedAt() ?></td>
-    </tr>
-    <tr>
-      <th>Updated at:</th>
-      <td><?php echo $jobeet_category->getUpdatedAt() ?></td>
-    </tr>
-  </tbody>
+  <?php endforeach; ?>
 </table>
 
-<hr />
-
-<a href="<?php echo url_for('category/edit?id='.$jobeet_category->getId()) ?>">Edit</a>
-&nbsp;
-<a href="<?php echo url_for('category/index') ?>">List</a>

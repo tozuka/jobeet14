@@ -104,3 +104,5 @@ $ ./symfony doctrine:generate-module --with-show --non-verbose-templates fronten
 $ ./symfony generate:module frontend category
 
 のほうが良いケース。空のモジュールを作る。
+
+$ ./symfony doctrine:build --all --and-load --no-confirmation

@@ -10,17 +10,19 @@
  */
 class categoryActions extends sfActions
 {
+/*
   public function executeIndex(sfWebRequest $request)
   {
     $this->categories = Doctrine::getTable('JobeetCategory')
       ->createQuery('a')
       ->execute();
   }
-
+*/
   public function executeShow(sfWebRequest $request)
   {
-    $this->jobeet_category = Doctrine::getTable('JobeetCategory')->find(array($request->getParameter('id')));
-    $this->forward404Unless($this->jobeet_category);
+//    $this->jobeet_category = Doctrine::getTable('JobeetCategory')->find(array($request->getParameter('id')));
+//    $this->forward404Unless($this->jobeet_category);
+	$this->category = $this->getRoute()->getObject();
   }
 
   public function executeNew(sfWebRequest $request)
