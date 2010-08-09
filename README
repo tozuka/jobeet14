@@ -109,7 +109,7 @@ $ ./symfony doctrine:build --all --and-load --no-confirmation
 
 
 ====
-J 08 Testing
+J 08 Unit Test
 ====
 require_once dirname(__FILE__).'/../bootstrap/unit.php';
 $t = new lime_test(6);
@@ -132,3 +132,17 @@ $ ./symfony doctrine:insert-sql --env=test
 Doctrine_Core::loadData(sfConfig::get('sf_test_dir').'/fixtures');
                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
                         プロジェクトのフルパス
+
+
+====
+J 09 Functional Test
+====
+
+$ php test/functional/frontend/categoryActionsTest.php
+$ ./symfony test:functional frontend categoryActions
+
+$ ./symfony test:functional frontend
+
+$ ./symfony test:all
+$ ./symfony test:all --only-failed
+$ ./symfony test:all --xml=log.xml
