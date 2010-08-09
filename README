@@ -1,4 +1,4 @@
-====
+g====
 J 01
 ====
 $ ./lib/vendor/symfony/data/bin/symfony generate:project jobeet
@@ -106,3 +106,29 @@ $ ./symfony generate:module frontend category
 のほうが良いケース。空のモジュールを作る。
 
 $ ./symfony doctrine:build --all --and-load --no-confirmation
+
+
+====
+J 08 Testing
+====
+require_once dirname(__FILE__).'/../bootstrap/unit.php';
+$t = new lime_test(6);
+...
+
+$ php test/unit/JobeetTest.php
+あるいは
+$ ./symfony test:unit Jobeet
+
+
+カバレッジ
+$ ./symfony test:coverage test/unit/JobeetTest.php lib/Jobeet.class.php
+$ ./symfony test:coverage --detailed test/unit/JobeetTest.php lib/Jobeet.class.php
+
+
+$ mysqladmin -uroot -p????? create jobeet_test
+$ ./symfony doctrine:insert-sql --env=test
+                                ^^^^^^^^^^
+
+Doctrine_Core::loadData(sfConfig::get('sf_test_dir').'/fixtures');
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                        プロジェクトのフルパス
